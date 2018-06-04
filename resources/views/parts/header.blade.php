@@ -1,7 +1,7 @@
-<header>
-  <nav>
-    <ul>
-      <li><a href="{{ url('/') }}">Accueil</a></li>
-    </ul>
-  </nav>
-</header>
+<nav>
+  <ul class="list-no-style">
+    <li><a href="{{ url('/') }}">Accueil</a></li>
+    <li><a href="#">Contact</a></li>
+    <li><a href="#">Mes livres</a></li>
+  </ul>
+</nav>
